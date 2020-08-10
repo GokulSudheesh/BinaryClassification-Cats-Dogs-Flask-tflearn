@@ -1,0 +1,7 @@
+tensorflow==1.15.3
+tflearn
+numpy
+opencv-python
+tqdm
+flask
+flask_bootstrap
