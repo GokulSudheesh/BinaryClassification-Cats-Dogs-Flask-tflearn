@@ -22,7 +22,7 @@
  
 ## Training our model:
   - After downloading the training and testing data (link provided below), extract them into test and train directories respectively.
-  - From trainer.py run the file and keep changing the "n_epoch" value to get a higher accuracy. 
+  - From trainer.py run the file and keep increasing the "n_epoch" value to get a higher accuracy. 
   - You can see the loss function and accuracy from the tensorboard platform. This is also mentioned in the code.
   - After training the model, load the saved model in classifier.py
   - Now, run the app.py file to access the web page on your local host.
