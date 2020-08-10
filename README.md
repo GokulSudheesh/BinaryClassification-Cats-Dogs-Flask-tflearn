@@ -2,7 +2,7 @@
   - This is a very simple project which classifies an image into a dog or a cat. 
   - This project uses tflearn which is the best alternative to Keras.
   - A pre-trained model is also uploaded with an accuracy of 86.2%.
-  - Using flask web framework, the images can be uploaded on a web page and the predicted class will displayed according to the predictions.
+  - Using flask web framework, the images can be uploaded on a web page and the predicted class will be displayed.
 
 ## Preview
 ![](screenshots/ss1.png)\
